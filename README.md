@@ -1,4 +1,6 @@
-# Bio-Turing-Way
+# *The Turing Way* Pathway Feature  - Python Package
+
+*The package in this repo is developed on, where this repo is forked from: https://github.com/alan-turing-institute/bio-Turing-Way/*
 
 This is a repo for exploring ways to deploy multiple pathways for the Turing Way Jupyter Book. 
 The goal is:
